@@ -7,3 +7,14 @@
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on Web dev or ML projects
 
+### Connect with me:
+
+[<img align="left" alt="Mail" width="22px" src="images/gmail.png"/>][Mail]
+[<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.png" />][linkedin]
+<br />
+
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekgupta3&show_icons=true&theme=radical) 
+
+
+[linkedin]: https://www.linkedin.com/in/fa1k0n/
+[mail]: mailto:abhigupta.4g@gmail
