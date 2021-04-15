@@ -27,7 +27,7 @@
 
 <br>
 <br> 
-###Github Stats
+### Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=abhishekgupta3&count_private=true&show_icons=true&include_all_commits=false&theme=dark&hide_border=false&&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekgupta3&hide=TeX&layout=compact&theme=dark&hide_border=true)
