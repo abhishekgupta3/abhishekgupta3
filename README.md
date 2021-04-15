@@ -15,6 +15,8 @@
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekgupta3&show_icons=true&theme=radical) 
 
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekgupta3&show_icons=true&theme=radical&layout=compact)
+
 
 [linkedin]: https://www.linkedin.com/in/fa1k0n/
 [mail]: mailto:abhigupta.4g@gmail
