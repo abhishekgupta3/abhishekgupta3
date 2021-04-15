@@ -8,7 +8,6 @@
 
 ### Language and Tools:
 <img align="left" alt="C++" width="30px" src="images/c++.png" />
-<img align="left" alt="C" width="30px" src="images/c.png" />
 <img align="left" alt="JavaScript" width="30px" src="images/javascript.png" />
 <img align="left" alt="Python" width="30px" src="images/python.png" />
 <img align="left" alt="HTML5" width="30px" src="images/html.png" />
