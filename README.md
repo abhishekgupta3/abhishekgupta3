@@ -18,7 +18,6 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="images/vscode.png" />
 <img align="left" alt="Git" width="30px" src="images/git.png" />
 <img align="left" alt="GitHub" width="30px" src="images/github.png"/>
-<img align="left" alt="Jupyter" width="30px" src="images/jupyter.png"/>
 
 <br />
 
