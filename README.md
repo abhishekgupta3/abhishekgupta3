@@ -26,7 +26,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.png" />][linkedin]
 
 <br>
-<br> 
+
 ### Github Stats:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=abhishekgupta3&count_private=true&show_icons=true&include_all_commits=false&theme=dark&hide_border=false&&layout=compact)
