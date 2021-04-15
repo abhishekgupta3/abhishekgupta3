@@ -8,13 +8,15 @@
 
 ### Language and Tools:
 <img align="left" alt="C++" width="30px" src="images/c++.png" />
+<img align="left" alt="C" width="30px" src="images/c.png" />
+<img align="left" alt="JavaScript" width="30px" src="images/javascript.png" />
 <img align="left" alt="Python" width="30px" src="images/python.png" />
 <img align="left" alt="HTML5" width="30px" src="images/html.png" />
 <img align="left" alt="CSS3" width="30px" src="images/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="images/javascript.png" />
-<img align="left" alt="MongoDB" width="30px" src="images/mongodb.png"/>
-<img align="left" alt="React" width="30px" src="images/react.png" />
+<img align="left" alt="BootStrap" width="30px" src="images/bootstrap.png" />
 <img align="left" alt="Node.js" width="30px" src="images/nodejs.png" />
+<img align="left" alt="MongoDB" width="30px" src="images/mongodb.png"/>
+<img align="left" alt="Sublime" width="30px" src="images/sublime.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="images/vscode.png" />
 <img align="left" alt="Git" width="30px" src="images/git.png" />
 <img align="left" alt="GitHub" width="30px" src="images/github.png"/>
