@@ -20,7 +20,6 @@
 <img align="left" alt="Python" width="30px" src="images/python.png" />
 <img align="left" alt="HTML5" width="30px" src="images/html.png" />
 <img align="left" alt="CSS3" width="30px" src="images/css.png" />
-<img align="left" alt="BootStrap" width="30px" src="images/bootstrap.png" />
 <img align="left" alt="Node.js" width="30px" src="images/nodejs.png" />
 <img align="left" alt="MongoDB" width="30px" src="images/mongodb.png"/>
 <img align="left" alt="Sublime" width="30px" src="images/sublime.png" />
