@@ -27,7 +27,6 @@
 <img align="left" alt="Git" width="30px" src="images/git.png" />
 <img align="left" alt="GitHub" width="30px" src="images/github.png"/>
 -->
-<br>
 
 ### Github Stats:
 
