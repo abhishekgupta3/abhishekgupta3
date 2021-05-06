@@ -8,7 +8,7 @@
 - 👯 looking to collaborate on Web dev or ML projects
 
 
-### Connect with me:
+<!-- ### Connect with me:
 [<img align="left" alt="Mail" width="22px" src="images/gmail.png"/>][Mail]
 [<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.png" />][linkedin]
 
@@ -26,7 +26,7 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="images/vscode.png" />
 <img align="left" alt="Git" width="30px" src="images/git.png" />
 <img align="left" alt="GitHub" width="30px" src="images/github.png"/>
-
+-->
 <br>
 <br>
 
