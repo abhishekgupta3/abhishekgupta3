@@ -28,7 +28,6 @@
 <img align="left" alt="GitHub" width="30px" src="images/github.png"/>
 -->
 <br>
-<br>
 
 ### Github Stats:
 
