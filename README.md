@@ -1,6 +1,4 @@
-﻿### Hello everyone <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">, I'm Abhishek  
- <br/>
- ![stat](https://komarev.com/ghpvc/?username=abhishekgupta3&style=flat-square)
+﻿### Hello everyone <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">, I'm Abhishek ![stat](https://komarev.com/ghpvc/?username=abhishekgupta3&style=flat-square)
 
 
 -   :mortar_board: Currently Studying in **Indian Institute of Technology, Patna (2023)**
