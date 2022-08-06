@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying in **Indian Institute of Technology, Patna (2023)**
 
-- 👯 I’m looking to collaborate on **Cryptography and Machine Learning**
+- 👯 I’m looking to collaborate on **Cryptography and Machine Learning Projects**
 
 - 💬 Ask me about **Angular**
 
