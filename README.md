@@ -5,7 +5,7 @@
 
 - 👨‍💻 I graduated from **Indian Institute of Technology, Patna (2023)**
 
-- 👯 I’m looking to collaborate on **Cryptography and Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 📫 How to reach me **abhigupta.4g@gmail.com**
 	
@@ -30,8 +30,5 @@
 
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekgupta3&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="abhishekgupta3" /></p>
-
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/abhishekgupta3"><img src="https://github-profile-trophy.vercel.app/?username=abhishekgupta3&margin-w=5&theme=radical" alt="abhishekgupta3" /></a> </p>
 
 <br>
